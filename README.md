@@ -1,4 +1,4 @@
-# bilbord100playlist
+# billboard100playlist
 
 After entering a date the app creates a Spotify playlist of "The Billboard Hot 100" songs of selected date.
 
